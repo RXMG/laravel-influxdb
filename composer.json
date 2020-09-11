@@ -15,6 +15,7 @@
         }
     },
     "require": {
+        "guzzlehttp/guzzle": "^7.0.1",
         "influxdb/influxdb-php": "dev-laravel-eight",
         "illuminate/support": "^7.0"
     },

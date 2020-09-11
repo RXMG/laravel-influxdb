@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "21fef5ba1c0a8637065ec3696fcb70a4",
+    "content-hash": "2f0e874d881b8b4f23b6474506ca57d0",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -430,17 +430,17 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/equateai/influxdb-php.git",
-                "reference": "42b5cb13628959d7b33a65bab04c75b886a3a4e8"
+                "reference": "4945d747aca0aafe914d24684a3a1d80c068d4f0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/equateai/influxdb-php/zipball/42b5cb13628959d7b33a65bab04c75b886a3a4e8",
-                "reference": "42b5cb13628959d7b33a65bab04c75b886a3a4e8",
+                "url": "https://api.github.com/repos/equateai/influxdb-php/zipball/4945d747aca0aafe914d24684a3a1d80c068d4f0",
+                "reference": "4945d747aca0aafe914d24684a3a1d80c068d4f0",
                 "shasum": ""
             },
             "require": {
-                "guzzlehttp/guzzle": "^7.0",
-                "php": "^7.0"
+                "guzzlehttp/guzzle": "^7.0.1",
+                "php": "^7.3"
             },
             "require-dev": {
                 "phpunit/phpunit": "^5.7"
@@ -498,7 +498,7 @@
             "support": {
                 "source": "https://github.com/equateai/influxdb-php/tree/laravel-eight"
             },
-            "time": "2020-09-11T03:30:10+00:00"
+            "time": "2020-09-11T03:45:34+00:00"
         },
         {
             "name": "nesbot/carbon",
