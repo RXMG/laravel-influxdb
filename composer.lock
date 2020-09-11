@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2f0e874d881b8b4f23b6474506ca57d0",
+    "content-hash": "91801f0c28053e65ee90fa7ad15513c2",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -430,16 +430,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/equateai/influxdb-php.git",
-                "reference": "4945d747aca0aafe914d24684a3a1d80c068d4f0"
+                "reference": "a88535977443820fba3844d9b330aee8f4830098"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/equateai/influxdb-php/zipball/4945d747aca0aafe914d24684a3a1d80c068d4f0",
-                "reference": "4945d747aca0aafe914d24684a3a1d80c068d4f0",
+                "url": "https://api.github.com/repos/equateai/influxdb-php/zipball/a88535977443820fba3844d9b330aee8f4830098",
+                "reference": "a88535977443820fba3844d9b330aee8f4830098",
                 "shasum": ""
             },
             "require": {
-                "guzzlehttp/guzzle": "^7.0.1",
+                "guzzlehttp/guzzle": "dev-master",
                 "php": "^7.3"
             },
             "require-dev": {
@@ -498,7 +498,7 @@
             "support": {
                 "source": "https://github.com/equateai/influxdb-php/tree/laravel-eight"
             },
-            "time": "2020-09-11T03:45:34+00:00"
+            "time": "2020-09-11T04:23:12+00:00"
         },
         {
             "name": "nesbot/carbon",
@@ -1227,6 +1227,7 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
+        "guzzlehttp/guzzle": 20,
         "influxdb/influxdb-php": 20
     },
     "prefer-stable": false,
