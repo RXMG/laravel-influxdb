@@ -21,7 +21,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/equateai/influxdb-php"
+            "url": "https://github.com/RXMG/influxdb-php"
         }
     ],
     "minimum-stability": "dev",
