@@ -15,7 +15,7 @@
         }
     },
     "require": {
-        "influxdb/influxdb-php": "dev-php8-upgrade",
+        "influxdb/influxdb-php": "dev-master",
         "illuminate/support": "^8.0.0"
     },
     "repositories": [
