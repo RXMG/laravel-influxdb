@@ -15,8 +15,8 @@
         }
     },
     "require": {
-        "influxdb/influxdb-php": "dev-laravel-eight",
-        "illuminate/support": "^7.0"
+        "influxdb/influxdb-php": "dev-master",
+        "illuminate/support": "^8.0.0"
     },
     "repositories": [
         {
